@@ -108,6 +108,7 @@ export const listProyek = [
     dad: "200",
     link: "https://undangan-walimatul-khitan-dema-hendra-al-faruq.vercel.app/"
   },
+  
   {
     id: 2,
     gambar: '/proyek/informa-kas.jpeg',
@@ -116,5 +117,15 @@ export const listProyek = [
     tools: ["Next.js", "Supabase", "Tailwind CSS"],
     dad: "200",
     link: "https://informa-kas.vercel.app"
-  }
+  },
+
+  {
+    id: 3,
+    gambar: '/proyek/todo-dashboard.jpeg',
+    nama: "To-Do List Life Dashboard",
+    desk: "Aplikasi produktivitas interaktif yang dilengkapi fitur focus timer, manajemen tugas, dan tautan cepat.",
+    tools: ["HTML", "CSS", "Javascript"],
+    dad: "200",
+    link: "https://wahyudayat1.github.io/CodingCamp-24August26-wahyu/"
+  },
 ];

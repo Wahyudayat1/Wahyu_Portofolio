@@ -22,15 +22,20 @@ Website portofolio interaktif yang menampilkan profil profesional, proyek-proyek
 
 ## 🚀 Proyek Unggulan
 
-### 1. Buku Kas Transparan
+### 1. Undangan Walimatul Khitan
+Website undangan digital untuk syukuran khitanan Dema Hendra Al Faruq.
+- **Teknologi:** HTML, CSS, JavaScript
+- **Link:** [undangan-walimatul-khitan-dema-hendra-al-faruq.vercel.app](https://undangan-walimatul-khitan-dema-hendra-al-faruq.vercel.app/)
+
+### 2. Buku Kas Transparan
 Website pencatatan buku kas keuangan transparan dengan akses publik dan panel admin.
 - **Teknologi:** Next.js, Supabase, Tailwind CSS
 - **Link:** [informa-kas.vercel.app](https://informa-kas.vercel.app)
 
-### 2. Undangan Walimatul Khitan
-Website undangan digital untuk syukuran khitanan Dema Hendra Al Faruq.
+### 3. To-Do List Life Dashboard
+Aplikasi produktivitas interaktif dengan fitur jam digital, focus timer (Pomodoro), daftar tugas (tasks), dan quick links.
 - **Teknologi:** HTML, CSS, JavaScript
-- **Link:** [undangan-walimatul-khitan-dema-hendra-al-faruq.vercel.app](https://undangan-walimatul-khitan-dema-hendra-al-faruq.vercel.app/)
+- **Link:** [wahyudayat1.github.io/CodingCamp-24August26-wahyu](https://wahyudayat1.github.io/CodingCamp-24August26-wahyu/)
 
 ## 🛠️ Tech Stack
 
